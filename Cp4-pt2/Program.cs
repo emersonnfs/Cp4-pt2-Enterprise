@@ -189,6 +189,7 @@ class Program
             }
             else
             {
+                Console.WriteLine("Seleção inválida!");
                 i--;
             }
         }
